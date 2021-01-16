@@ -6,3 +6,5 @@ Problem 2 : is focused towards training neural network for multi-classclassifica
 
 
 Problem 3 : is focused towards classify the test images by training a convolutional neural network using training images and labels, differences in accuracies is observed classify objects in color and grayscale mode. CIFAR-10 dataset is used for the problem. 
+
+Problem 4 : is focused towards removing  noise  from noisy images  by  passing  them  through  an autoencoder.MNISTdataset for this problem
