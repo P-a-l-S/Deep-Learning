@@ -1,6 +1,6 @@
 #  Effectiveness of Data Augmentation on Image Classification Performance
 
-Contributors : Sebastian Gazda, Mehmet Ayanoglu, Zhenyi Chen, Pallavi Singh
+Contributors :  Pallavi Singh, Sebastian Gazda, Mehmet Ayanoglu, Zhenyi Chen
 
 
 ### Project Summary
